@@ -44,7 +44,7 @@ class TitlePatternProcessor extends AbstractAttrProcessor {
 	static final String TITLE_TYPE_DECORATOR = 'decorator-title'
 	static final String TITLE_TYPE_CONTENT   = 'content-title'
 
-	static final String RESULTING_TITLE = "resultingTitle"
+	static final String RESULTING_TITLE = 'resultingTitle'
 
 	final int precedence = 1
 

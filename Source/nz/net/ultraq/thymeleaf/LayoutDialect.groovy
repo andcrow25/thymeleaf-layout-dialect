@@ -171,7 +171,7 @@ class LayoutDialect extends AbstractDialect {
 			/**
 			 * Returns whether or not this node represents collapsible
 			 * whitespace.
-			 *
+			 * 
 			 * @return <tt>true</tt> if this is a collapsible text node.
 			 */
 			isWhitespaceNode << {
